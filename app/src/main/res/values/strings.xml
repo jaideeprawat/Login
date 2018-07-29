@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Volley example</string>
+    <string name="email_hint">Email</string>
+    <string name="name_hint">Name</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="regisster_text">Register</string>
+    <string name="alreadyRegistered">Already registered?\nLogin here</string>
+    <string name="gotoRegister">Dont\' have an account?\nRegister Here</string>
+</resources>
